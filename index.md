@@ -1,5 +1,5 @@
 ---
-title: Mustard Bader Home
+title: Mustard Badger Home
 banner_image: "/img/banner.png"
 layout: landing-page
 heading: Mustard Badger
